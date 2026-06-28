@@ -49,7 +49,7 @@ DATABASES = {
 # ─────────────────────────────────────────────────────────
 #  MongoDB Atlas — replace with YOUR connection string
 # ─────────────────────────────────────────────────────────
-MONGO_URI = 'mongodb+srv://admin:zaid2004@cluster0.dlchkoo.mongodb.net/BookStoreDB?retryWrites=true&w=majority'
+MONGO_URI = 'mongodb+srv://admin:yourpassword@cluster0.dlchkoo.mongodb.net/BookStoreDB?retryWrites=true&w=majority'
 MONGO_DB  = 'BookStoreDB'
 
 LANGUAGE_CODE = 'en-us'
